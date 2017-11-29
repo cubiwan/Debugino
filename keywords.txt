@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map Debug
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+DEBUGPRINT	KEYWORD2
+DEBUGPRINTLN	KEYWORD2
+DEBUGMSG	KEYWORD2
+TRACEPRINTLN	KEYWORD2
+TRACEPRINT	KEYWORD2
+TRACEMSG	KEYWORD2
+ENTER	KEYWORD2
+EXIT	KEYWORD2
+INFOPRINTLN	KEYWORD2
+INFOPRINT	KEYWORD2
+INFOMSG	KEYWORD2
+ERRORPRINTLN	KEYWORD2
+ERRORPRINT	KEYWORD2
+ERRORMSG	KEYWORD2
+ASSERT	KEYWORD2
+ASSERTNONULL	KEYWORD2
+STOP	KEYWORD2
+SOFTWARERESET	KEYWORD2
+TESTPRINTLN	KEYWORD2
+TESTPRINT	KEYWORD2
+TESTMSG	KEYWORD2
+TEST	KEYWORD2
+TESTNULL	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
