@@ -39,7 +39,7 @@ For use flags to include your own blocks of code (test for example) you can incl
 #### TRACE:
 **TRACEPRINTLN(X)** Serial.println(X);  
 **TRACEPRINT(X)** Serial.print(X);  
-**TRACEMSG(X)** Serial.println("DEBUG function file.ino:line X");  
+**TRACEMSG(X)** Serial.println("TRACE function file.ino:line X");  
 **ENTER**	Serial.print("TRACE: ENTER -> function"); Usesfull for indicates when enter in a function. Recommended writes in the first line of a function.  
 **EXIT** Serial.print("TRACE: EXIT -> function"); Usesfull for indicates when exit of a function. Recommended writes before return instruction.
 
